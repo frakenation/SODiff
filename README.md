@@ -79,13 +79,13 @@
 
 ## <a name="results"></a>📊 Results
 ---
-The model **HAODiff** achieved state-of-the-art performance on both the datasets **PERSONA-Val**, **PERSONA-Test**, and **MPII-Test**. Detailed results can be found in the paper.
+The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DIV2K-val**. Detailed results can be found in the paper.
 
 <details>
 <summary>&ensp;Quantitative Comparisons (click to expand) </summary>
-<li> Results in Table 1 on synthetic PERSONA-Val dataset from the main paper. 
+<li> Results in the Table below show **SODiff's** performance on different datasets. 
 <p align="center">
-<img src="images/tab_1.png" >
+<img src="images/Table_results.png" >
 </p>
 </li>
 
