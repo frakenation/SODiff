@@ -4,10 +4,9 @@
 </h1>
 
 
-[Tingyu Yang](https://github.com/frakenation), [Jue Gong](https://github.com/gobunu), [Jinpei Guo](https://jp-guo.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/)
 
 
-<p align="left">
+<p align="center">
   <a href="https://arxiv.org/abs/2508.07346">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
@@ -24,6 +23,9 @@
     <img src="https://img.shields.io/github/stars/frakenation/SODiff?style=social">
   </a>
 </p>
+
+
+[Tingyu Yang](https://github.com/frakenation), [Jue Gong](https://github.com/gobunu), [Jinpei Guo](https://jp-guo.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/), SODiff: Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal, arXiv, 2025
 
 
 #### 🔥🔥 News
