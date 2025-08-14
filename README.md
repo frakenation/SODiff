@@ -78,7 +78,6 @@
 - [ ] [Acknowledgements](#Acknowledgements)
 
 ## <a name="results"></a>📊 Results
----
 The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DIV2K-val**. Detailed results can be found in the paper.
 
 <details>
