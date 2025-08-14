@@ -52,9 +52,9 @@
       <b>Urban100 (QF=5)</b>
     </td>
     <td align="center">
-      <a href="https://imgsli.com/MzgzMjE0"><img src="images/test_1.png" height="200"/></a><br>
+      <a href="https://imgsli.com/NDA2NTA5"><img src="images/DIV2K_0804.png" height="200"/></a><br>
 <!--       <a href="https://imgsli.com/MzgzMjE1"><img src="images/test_2.png" height="200"/></a><br> -->
-      <b>PERSONA-Test</b>
+      <b>DIV2K-val</b>
     </td>
   </tr>
 </table>
