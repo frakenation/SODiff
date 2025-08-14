@@ -3,7 +3,11 @@
   for JPEG Compression Artifacts Removal 
 </h1>
 
-<p align="center">
+
+[Tingyu Yang](https://github.com/frakenation), [Jue Gong](https://github.com/gobunu), [Jinpei Guo](https://jp-guo.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/)
+
+
+<p align="left">
   <a href="https://arxiv.org/abs/2508.07346">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
@@ -89,7 +93,7 @@ The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DI
 </li>
 </details>
 
-<details>
+<details open>
 <summary>&ensp;Visual Comparisons (click to expand) </summary>
 <li> Results in the figure below show SODiff's performance on DIV2K-val (QF=1). 
 <p align="center">
@@ -109,9 +113,9 @@ The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DI
 If you find the work helpful to your research, please cite the following paper(s).
 
 ```
-@article{Yang2025sodiff,
+@article{yang2025sodiff,
     title={{SODiff: Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal }},
-    author={Yang, Tingyu and Gong, Jue and Guo, Jinpei and Li, Wenbo and Guo, Yong and Gu, Hong and Zhang, Yulun},
+    author={Yang, Tingyu and Gong, Jue and Guo, Jinpei and Li, Wenbo and Guo, Yong and Zhang, Yulun},
     journal={arXiv preprint 2508.07346},
     year={2025}
 }
