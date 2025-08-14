@@ -22,7 +22,7 @@
 </p>
 
 
-#### 📰 News
+#### 🔥🔥 News
 
 - **2025-08-10:** This repo is released.
 ---
@@ -64,7 +64,7 @@
 
 ---
 
-## ⚒️ TODO
+## 📋 TODO
 
 * [ ] Release code and pretrained models
 
@@ -77,10 +77,20 @@
 - [x] [Citation](#Citation)
 - [ ] [Acknowledgements](#Acknowledgements)
 
-## <a name="results"></a>🔎 Results
+## <a name="results"></a>📊 Results
 ---
+The model **HAODiff** achieved state-of-the-art performance on both the datasets **PERSONA-Val**, **PERSONA-Test**, and **MPII-Test**. Detailed results can be found in the paper.
 
-## <a name="citation"></a>📜 Citation
+<details>
+<summary>&ensp;Quantitative Comparisons (click to expand) </summary>
+<li> Results in Table 1 on synthetic PERSONA-Val dataset from the main paper. 
+<p align="center">
+<img src="images/tab_1.png" >
+</p>
+</li>
+
+
+## <a name="citation"></a>👉 Citation
 
 If you find the work helpful to your research, please cite the following paper(s).
 
