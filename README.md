@@ -58,6 +58,24 @@
   </tr>
 </table>
 
+</div>
+
+---
+
+## ⚒️ TODO
+
+* [ ] Release code and pretrained models
+
+## 🔗 Contents
+
+- [ ] Models
+- [ ] Testing
+- [ ] Training
+- [x] [Results](#Results)
+- [x] [Citation](#Citation)
+- [ ] [Acknowledgements](#Acknowledgements)
+
+## <a name="results"></a>🔎 Results
 ---
 
 ## <a name="citation"></a>📜 Citation
