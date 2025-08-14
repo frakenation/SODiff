@@ -38,3 +38,23 @@
   <img src="images/SODiff.png" alt="SODiff model architecture" style="width:85%;"/><br>
   <b>Figure 2:</b> Model structure of SODiff (semantic-oriented diffusion).
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://imgsli.com/NDA2NDk5"><img src="images/LIVE-1_church.png" height="200"/></a><br>
+      <a href="https://imgsli.com/MzgzMjE3"><img src="images/val_2.png" height="200"/></a><br>
+      <b>PERSONA-Val</b>
+    </td>
+    <td align="center">
+      <a href="https://imgsli.com/MzgzMjEw"><img src="images/mpii_1.png" height="200"/></a><br>
+      <a href="https://imgsli.com/MzgzMjEx"><img src="images/mpii_2.png" height="200"/></a><br>
+      <b>MPII-Test</b>
+    </td>
+    <td align="center">
+      <a href="https://imgsli.com/MzgzMjE0"><img src="images/test_1.png" height="200"/></a><br>
+      <a href="https://imgsli.com/MzgzMjE1"><img src="images/test_2.png" height="200"/></a><br>
+      <b>PERSONA-Test</b>
+    </td>
+  </tr>
+</table>
