@@ -36,5 +36,5 @@
 
 <p align="center">
   <img src="images/SODiff.png" alt="SODiff model architecture" style="width:85%;"/><br>
-  <b>Figure 3:</b> Model structure of SODiff.
+  <b>Figure 2:</b> Model structure of SODiff.
 </p>
