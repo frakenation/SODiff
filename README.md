@@ -22,7 +22,7 @@
 </p>
 
 
-####📰 News
+#### 📰 News
 
 - **2025-08-10:** This repo is released.
 ---
@@ -57,6 +57,8 @@
     </td>
   </tr>
 </table>
+
+*Click on images to view interactive comparisons on ImgSli.*
 
 </div>
 
