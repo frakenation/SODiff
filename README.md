@@ -54,7 +54,7 @@
     <td align="center">
       <a href="https://imgsli.com/NDA2NTA5"><img src="images/DIV2K_0804.png" height="200"/></a><br>
 <!--       <a href="https://imgsli.com/MzgzMjE1"><img src="images/test_2.png" height="200"/></a><br> -->
-      <b>DIV2K-val</b>
+      <b>DIV2K-val (QF=5)</b>
     </td>
   </tr>
 </table>
