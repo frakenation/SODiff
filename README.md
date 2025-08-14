@@ -88,6 +88,8 @@ The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DI
 <img src="images/Table_results.png" >
 </p>
 </li>
+</details>
+
 <details>
 <summary>&ensp;Visual Comparisons (click to expand) </summary>
 <li> Results in the figure below show SODiff's performance on DIV2K-val (QF=1). 
@@ -100,6 +102,7 @@ The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DI
 <img src="images/Urban100_qf5.png" >
 </p>
 </li>
+</details>
 
 
 ## <a name="citation"></a>👉 Citation
