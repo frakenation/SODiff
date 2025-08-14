@@ -83,7 +83,7 @@ The performance of **SODiff** on the datasets **LIVE-1**, **Urban100**, and **DI
 
 <details>
 <summary>&ensp;Quantitative Comparisons (click to expand) </summary>
-<li> Results in the Table below show **SODiff's** performance on different datasets. 
+<li> Results in the Table below show SODiff's performance on different datasets. 
 <p align="center">
 <img src="images/Table_results.png" >
 </p>
