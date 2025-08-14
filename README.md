@@ -12,9 +12,9 @@
   </a>
   <a href="https://github.com/frakenation/SODiff/releases/tag/paper/supp.pdf">
     <img src="https://img.shields.io/badge/Supplementary_material-Paper-orange.svg">
-  </a>
+<!--   </a>
   <a href="https://github.com/frakenation/SODiff/releases/tag/paper">
-    <img src="https://img.shields.io/github/downloads/frakenation/SODiff/total.svg">
+    <img src="https://img.shields.io/github/downloads/frakenation/SODiff/total.svg"> -->
   </a>
   <a href="https://github.com/frakenation/SODiff">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=frakenation.SODiff&right_color=violet">
