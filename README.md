@@ -10,10 +10,10 @@
   <a href="https://arxiv.org/abs/2508.07346">
     <img src="https://img.shields.io/badge/Paper-arXiv-red?logo=arxiv&logoSvg">
   </a>
-  <a href="https://github.com/frakenation/SODiff/releases/download/Paper/supp.pdf">
+  <a href="https://github.com/frakenation/SODiff/releases/tag/paper/supp.pdf">
     <img src="https://img.shields.io/badge/Supplementary_material-Paper-orange.svg">
   </a>
-  <a href="https://github.com/frakenation/SODiff/releases">
+  <a href="https://github.com/frakenation/SODiff/releases/tag/paper">
     <img src="https://img.shields.io/github/downloads/frakenation/SODiff/total.svg">
   </a>
   <a href="https://github.com/frakenation/SODiff">
@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/github/stars/frakenation/SODiff?style=social">
   </a>
 </p>
-
 
 [Tingyu Yang](https://github.com/frakenation), [Jue Gong](https://github.com/gobunu), [Jinpei Guo](https://jp-guo.github.io/), [Wenbo Li](https://fenglinglwb.github.io/), [Yong Guo](https://www.guoyongcs.com/), and [Yulun Zhang](http://yulunzhang.com/), SODiff: Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal, arXiv, 2025
 
