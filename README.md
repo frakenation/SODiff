@@ -22,7 +22,7 @@
 </p>
 
 
-#### 🔥🔥🔥 News
+####📰 News
 
 - **2025-08-10:** This repo is released.
 ---
@@ -39,22 +39,38 @@
   <b>Figure 2:</b> Model structure of SODiff (semantic-oriented diffusion).
 </p>
 
+---
+
 <table>
   <tr>
     <td align="center">
       <a href="https://imgsli.com/NDA2NDk5"><img src="images/LIVE-1_church.png" height="200"/></a><br>
-<!--       <a href="https://imgsli.com/MzgzMjE3"><img src="images/val_2.png" height="200"/></a><br> -->
       <b>LIVE-1 (QF=5)</b>
     </td>
     <td align="center">
       <a href="https://imgsli.com/NDA2NTA2"><img src="images/Urban100_051.png" height="200"/></a><br>
-<!--       <a href="https://imgsli.com/MzgzMjEx"><img src="images/mpii_2.png" height="200"/></a><br> -->
       <b>Urban100 (QF=5)</b>
     </td>
     <td align="center">
       <a href="https://imgsli.com/NDA2NTA5"><img src="images/DIV2K_0804.png" height="200"/></a><br>
-<!--       <a href="https://imgsli.com/MzgzMjE1"><img src="images/test_2.png" height="200"/></a><br> -->
       <b>DIV2K-val (QF=5)</b>
     </td>
   </tr>
 </table>
+
+---
+
+## <a name="citation"></a>📜 Citation
+
+If you find the work helpful to your research, please cite the following paper(s).
+
+```
+@article{Yang2025sodiff,
+    title={{SODiff: Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal }},
+    author={Yang, Tingyu and Gong, Jue and Guo, Jinpei and Li, Wenbo and Guo, Yong and Gu, Hong and Zhang, Yulun},
+    journal={arXiv preprint 2508.07346},
+    year={2025}
+}
+```
+
+
